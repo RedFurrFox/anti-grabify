@@ -3,7 +3,7 @@
 # Last modified: 25 Dec 2022
 # Expires: 1 day
 # Website: https://github.com/Konnor88/anti-grabify
-# Total number of network filters: 122
+# Total number of network filters: 123
 #
 0.0.0.0 www.grabify.link
 0.0.0.0 grabify.link
