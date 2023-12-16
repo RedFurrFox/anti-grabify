@@ -42,6 +42,7 @@ photovault.pics/*
 grabify.world/*
 grabify.icu/*
 grabifyicu.com/*
+grabify.org/*
 
 ! IPLogger Links
 iplogger.org/*
