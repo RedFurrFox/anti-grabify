@@ -83,6 +83,8 @@
 0.0.0.0 grabify.icu
 0.0.0.0 www.grabifyicu.com
 0.0.0.0 grabifyicu.com
+0.0.0.0 www.grabify.org
+0.0.0.0 grabify.org
 0.0.0.0 www.iplogger.org
 0.0.0.0 iplogger.org
 0.0.0.0 www.2no.co
